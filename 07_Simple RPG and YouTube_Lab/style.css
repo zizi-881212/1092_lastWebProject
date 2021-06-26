@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+canvas{
+    border: 2px solid black;
+    background-image: url(images/grasses68.gif);
+}
+#title{
+    height: 100px;
+    color: black;
+    font-size: 100px;
+    font-weight: bold;
+}
+#talkBox{
+    height: 100px;
+    color: brown;
+    font-size: 100px;
+    font-weight: bold;
+}
+#player{
+    margin:0 auto;
+    border: 2px solid black;
+    height:540px;
+    width: 960px;
+}

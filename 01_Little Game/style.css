@@ -1,0 +1,11 @@
+#gameRegion{
+    width: 50%;
+    height: 200px;
+    background-color: antiquewhite;
+    cursor: url(images/man.png),auto;
+}
+
+#statusP{
+    height: 30px;
+    font-size: large;
+}
